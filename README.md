@@ -25,7 +25,7 @@
 </div>
 
 ## 🔗 Links
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://karthik257.github.io/portfolio)
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://karthik257.github.io/portfoli)
 
 ## 🔗 Connect with me:
 <span align="left">
