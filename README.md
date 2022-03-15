@@ -8,7 +8,7 @@
 - 🎓 &nbsp; Dedicated to developing and optimizing interactive, user-friendly and feature-rich websites.
 - 📫 &nbsp; How to reach me **smkarthik98@gmail.com**
 - 🌱 &nbsp; Demonstrate the capability of managing clean, elegant, and efficient code. Highly skilled in collaboration, decision-making, and Data Structures & Algorithms.
-- <a href="https://portfoliokarthik.vercel.app/">My portfolio</a>
+- 💻 &nbsp; Please visit <a href="https://portfoliokarthik.vercel.app/"> My portfolio</a>
  <br/>
 
 <h3 align="center">🛠 &nbsp;Tech Stack</h3>
