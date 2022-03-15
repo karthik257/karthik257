@@ -9,7 +9,7 @@
 - 📫 &nbsp; How to reach me **smkarthik98@gmail.com**
 - 🌱 &nbsp; Demonstrate the capability of managing clean, elegant, and efficient code. Highly skilled in collaboration, decision-making, and Data Structures & Algorithms.
  <br/>
- ## Visit my <a href="https://portfoliokarthik.vercel.app/">portfolio</a>
+ <h3><a href="https://portfoliokarthik.vercel.app/">My portfolio</a></h3>
 
 <h3 align="center">🛠 &nbsp;Tech Stack</h3>
 <p align="center">
