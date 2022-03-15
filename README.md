@@ -9,6 +9,8 @@
 - 📫 &nbsp; How to reach me **smkarthik98@gmail.com**
 - 🌱 &nbsp; Demonstrate the capability of managing clean, elegant, and efficient code. Highly skilled in collaboration, decision-making, and Data Structures & Algorithms.
  <br/>
+ ## 🔗 Links
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://portfoliokarthik.vercel.app/)
 <h3 align="center">🛠 &nbsp;Tech Stack</h3>
 <p align="center">
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
