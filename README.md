@@ -33,7 +33,6 @@
       <a href="mailto:smkarthik98@gmail.com">
         <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"   />
       </a>
-    <p>Call Me: +91-9686532100</p>
 </span>
 
 ## ❤ Views and Followers
